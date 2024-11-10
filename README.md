@@ -1,1 +1,1 @@
-Check the live version of project here => https://react-ecart-project.vercel.app/
+Check the live version of project here => https://pexels-clone-react-project.vercel.app
